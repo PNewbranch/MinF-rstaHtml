@@ -1,0 +1,14 @@
+body{
+    background-color: darkorange;
+}
+
+section{
+    background-color: rgb(115, 205, 92);
+}
+
+#dangerText{
+    color: red;
+}       
+
+.goldenText {
+ color: gold;
